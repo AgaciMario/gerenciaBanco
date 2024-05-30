@@ -20,7 +20,7 @@ public class main {
         ps.println("Informe o nome do usuário:");
         usuario.setNome(System.console().readLine());
         
-        ps.println("Informe o sobre nome do usuário:");
+        ps.println("Informe o sobrenome do usuário:");
         usuario.setSobreNome(System.console().readLine());
         
         ps.println("Informe o CPF do usuário:");
